@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
